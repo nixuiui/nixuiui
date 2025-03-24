@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Niki, currently working as a Mobile Application Sprecialist at [Sirka.io](https://www.sirka.io/). I also can do more Stack like JavaScript, PHP, etc. Find out more about me & feel free to connect with me here:
+I am a Software Engineer with 7 years of experiences. Currently a Mobile Application Developer at Telkomsel, contributing to performance optimization, user experience, and digital innovation. Played a key role in developing an application that grew to 100K+ users, showcasing strong problem-solving and scalability expertise.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nikirahmadiwiharto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikirahmadiwiharto/)](https://www.linkedin.com/in/nikirahmadiwiharto/)
 [![Gmail Badge](https://img.shields.io/badge/-nikirahmadiwiharto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikirahmadiwiharto@gmail.com)](mailto:nikirahmadiwiharto@gmail.com)
